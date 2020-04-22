@@ -1,5 +1,5 @@
-// Adafruit_NeoMatrix example for single NeoPixel Shield.
-// Scrolls 'Howdy' across the matrix in a portrait (vertical) orientation.
+//Not my work, based off of an example from adafruit neomatrix, name=matrixtest
+//I have added comments for simplification
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
